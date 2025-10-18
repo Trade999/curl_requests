@@ -1,0 +1,2 @@
+[console_scripts]
+curl_requests-cli = curl_requests.main:main
