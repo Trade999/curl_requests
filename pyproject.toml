@@ -1,7 +1,0 @@
-[project]
-name = "curl_requests1"
-version = "1.0.1"
-description = "Python package for curl_requests"
-authors = [{name = "Trade999", email = "lariotantsa@gmail.com"}]
-requires-python = ">=3.8"
-license = {text = "MIT"}
