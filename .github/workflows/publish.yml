@@ -4,17 +4,18 @@ on:
   release:
     types: [published]
   workflow_dispatch:
+  push:
+    tags:
+      - "v*.*.*"
 
 permissions:
-  id-token: write    # ilaina amin’ny OpenID Connect (OIDC)
-  contents: read     # ilaina amin’ny fidirana amin’ny code
+  id-token: write
+  contents: read
 
 jobs:
   build-and-publish:
-    name: Build and publish package
     runs-on: ubuntu-latest
-
-    environment: pypi   # mitovy amin’ny Environment name napetraka ao amin’ny PyPI
+    environment: pypi
 
     steps:
       - name: Checkout source code
